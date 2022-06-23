@@ -1,1 +1,3 @@
+##lists all folders in directory
 
+master_folders = next(os.walk('/Volumes/image library-1/Product Photography/Master Images - Lifestyle/'))[1]
